@@ -1,0 +1,32 @@
+.button{
+    width: 66px;
+    padding: 20px 0px;
+    margin: 0 3px;
+    border: 2px solid;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    color: whitesmoke;
+    width: 296px;
+    height: 50px;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 10px;
+}
+.btn{
+    background-color: orange;
+}
+.btn1{
+    width: 140px; 
+}
+.btn-top{
+    background-color: grey;
+}
