@@ -1,0 +1,30 @@
+#paragraph {
+    background-color: yellow;
+}
+
+main {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 40%;
+}
+
+div {
+    width: 50%;
+    height: 100%;
+    border-radius: 50% 50% 0 0;
+    background-color: white;
+    border: 0.5px solid;
+}
+
+.left {
+    transform: rotate(-45deg);
+    position: relative;
+    left: 28px;
+}
+
+.right {
+    transform: rotate(45deg);
+}
